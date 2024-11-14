@@ -1,0 +1,4 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Email Login,2505,128,88,476,64.02,0.000%,4.15397,3.28,1.17,808.5
+User Product List,2290,49,13,324,33.68,0.000%,3.87740,20.52,1.44,5419.6
+TOTAL,4795,90,13,476,65.17,0.000%,7.95142,23.38,2.58,3010.7
